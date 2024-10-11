@@ -1,0 +1,35 @@
+{
+  "name": "@adilzubari/express-delivery",
+  "version": "0.0.1",
+  "description": "Express Delivery is a powerful package offered by Kamboh SDK to generate APIs in minutes.",
+  "main": "index.js",
+  "bin": {
+    "kamboh": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "express-delivery",
+    "nodejs",
+    "javascript",
+    "web-development",
+    "project-starter",
+    "automation",
+    "dev-tools",
+    "developers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adilzubari/express-delivery.git"
+  },
+  "author": "Muhammad Adil Kamboh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilzubari/express-delivery/issues"
+  },
+  "homepage": "https://github.com/adilzubari/express-delivery#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
